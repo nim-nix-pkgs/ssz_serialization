@@ -1261,11 +1261,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662732906,
-        "narHash": "sha256-WOyTEXqD8tNKikOt2hLmOmspsvudXKkPFK5w1kCgccE=",
+        "lastModified": 1667332126,
+        "narHash": "sha256-9LMJ+HLnip8M9G6JJEUSYdc8UajajDBNVqhTlDkUpE0=",
         "owner": "nim-nix-pkgs",
         "repo": "ssz_serialization",
-        "rev": "aaf64c8d04e470bcf1883c834aef938bc7b22a53",
+        "rev": "7cc68fac0a4f24aa14df320d0b933fc0f7f6007f",
         "type": "github"
       },
       "original": {
