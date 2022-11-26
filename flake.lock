@@ -1426,11 +1426,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668757210,
-        "narHash": "sha256-hZ3N0U60fNL1YBk7CMI36k4cnQ6EJtrChoQ3aZBpjWc=",
+        "lastModified": 1669433772,
+        "narHash": "sha256-luBj4kdzHKNUSyouLAL0e8Cd1RrhPTHKdNf4mj630r4=",
         "owner": "nim-nix-pkgs",
         "repo": "ssz_serialization",
-        "rev": "cf8e45a8dc34ff2c78f58c6de322f0c938ef274c",
+        "rev": "fa3c676d45206f448f3dacc686a6a2f07ee4071f",
         "type": "github"
       },
       "original": {
